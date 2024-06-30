@@ -1,6 +1,7 @@
 <!--
 hmmhmm https://dev.to/naiive - https://naiive.itch.io
 -->
+
 <pre><code>
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░ Title[⨝]
 ░░█▀█░█▀█░█░░░█░░░█░█░█▀▀░░ Writers[⨝, ⨝] 
@@ -8,3 +9,9 @@ hmmhmm https://dev.to/naiive - https://naiive.itch.io
 ░░▀░▀░▀░▀░░░▀░░░▀░░▀░░▀▀▀░░ Cast[⨝, ⨝, ⨝]
 ░ Projects ░░░░░░░░░░░░░░░░ https://github.com/naiiveprojects
 </code></pre>
+
+⨝ is Home for open source, closed source, and everything-in-between 🤔?.
+
+Dive into our ~~mess~~ resources , explore the unknown, and maybe even contribute to the magic.
+
+Whether you’re here to collaborate, learn, or just satisfy your curiosity, there’s a spot for you.
