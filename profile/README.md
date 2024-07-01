@@ -11,10 +11,10 @@ Dive into our ~~mess~~ resources , explore the unknown, and maybe even contribut
 Whether you’re here to collaborate, learn, or just satisfy your curiosity, there’s a spot for you.
 
 <pre><code>
-░░░░░░░░░░░░░░░░░░░░░░░░░░░ Title: ⋈
+░░░░░░░░░░░░░░░░░░░░░░░░░░░ Title: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ░░█▀█░█▀█░█░░░█░░░█░█░█▀▀░░ Act: OpenSourceProjects
-░░█░█░█▀█░░▀▄░░▀▄░▀▄▀░█▀▀░░ Cast[⋈, ⋈]
-░░▀░▀░▀░▀░░░▀░░░▀░░▀░░▀▀▀░░ Writters[@⋈, @⋈, @⋈]
+░░█░█░█▀█░░▀▄░░▀▄░▀▄▀░█▀▀░░ Cast[ ▄▄▄▄▄▄▄,  ▄▄▄▄▄▄▄▄ ]
+░░▀░▀░▀░▀░░░▀░░░▀░░▀░░▀▀▀░░ Writters[ ▄▄▄▄▄▄▄, ▄▄▄▄▄▄, ]
 ░ Projects ░░░░░░░░░░░░░░░░ https://github.com/naiiveprojects
 
 </code></pre>
