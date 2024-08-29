@@ -1,6 +1,4 @@
-# 👋
-
-Dive into our ~~mess~~ resources, explore the unknown, and maybe even contribute to the magic.
+Dive into the ~~mess~~ resources, explore the unknown, and contribute to the magic.
 
 <pre><code>
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░ Title: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
